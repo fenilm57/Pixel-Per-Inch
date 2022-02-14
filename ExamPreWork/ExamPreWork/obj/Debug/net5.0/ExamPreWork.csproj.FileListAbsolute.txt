@@ -1,0 +1,16 @@
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\bin\Debug\net5.0\ExamPreWork.exe
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\bin\Debug\net5.0\ExamPreWork.deps.json
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\bin\Debug\net5.0\ExamPreWork.runtimeconfig.json
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\bin\Debug\net5.0\ExamPreWork.runtimeconfig.dev.json
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\bin\Debug\net5.0\ExamPreWork.dll
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\bin\Debug\net5.0\ref\ExamPreWork.dll
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\bin\Debug\net5.0\ExamPreWork.pdb
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ExamPreWork.csproj.AssemblyReference.cache
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ExamPreWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ExamPreWork.AssemblyInfoInputs.cache
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ExamPreWork.AssemblyInfo.cs
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ExamPreWork.csproj.CoreCompileInputs.cache
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ExamPreWork.dll
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ref\ExamPreWork.dll
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ExamPreWork.pdb
+C:\Users\fenil\source\repos\ExamPreWork\ExamPreWork\obj\Debug\net5.0\ExamPreWork.genruntimeconfig.cache
