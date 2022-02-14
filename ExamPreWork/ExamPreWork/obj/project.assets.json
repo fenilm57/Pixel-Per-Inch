@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fenil\\source\\repos\\ExamPreWork\\ExamPreWork\\ExamPreWork.csproj",
+      "projectUniqueName": "D:\\Pixel-Per-Inch\\ExamPreWork\\ExamPreWork\\ExamPreWork.csproj",
       "projectName": "ExamPreWork",
-      "projectPath": "C:\\Users\\fenil\\source\\repos\\ExamPreWork\\ExamPreWork\\ExamPreWork.csproj",
+      "projectPath": "D:\\Pixel-Per-Inch\\ExamPreWork\\ExamPreWork\\ExamPreWork.csproj",
       "packagesPath": "C:\\Users\\fenil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fenil\\source\\repos\\ExamPreWork\\ExamPreWork\\obj\\",
+      "outputPath": "D:\\Pixel-Per-Inch\\ExamPreWork\\ExamPreWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fenil\\AppData\\Roaming\\NuGet\\NuGet.Config",

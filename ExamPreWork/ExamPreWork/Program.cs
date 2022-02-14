@@ -42,25 +42,25 @@ namespace ExamPreWork
             string diagnol="";
             int heightInt = 0;
             int widthInt = 0;
-            int diagnolInt = 0;
+            double diagnolInt = 0;
             
             do
             {
                 Console.Write("Enter Height: ");
                 height = Console.ReadLine();
-            } while(!int.TryParse(height, out heightInt));
+            } while(!int.TryParse(height, out heightInt) || !(heightInt > 0));
 
             do
             {
                 Console.Write("Enter Width: ");
                 width = Console.ReadLine();
-            } while (!int.TryParse(width, out widthInt));
+            } while (!int.TryParse(width, out widthInt) || !(widthInt > 0));
 
             do
             {
                 Console.Write("Enter Diagnol: ");
                 diagnol = Console.ReadLine();
-            } while (!int.TryParse(diagnol, out diagnolInt));
+            } while (!double.TryParse(diagnol, out diagnolInt) || !(diagnolInt > 0));
 
             PixelCalc.ppi(heightInt,widthInt,diagnolInt);
         }
